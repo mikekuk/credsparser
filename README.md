@@ -1,5 +1,7 @@
 #Parse creds into PostgreSQL
 
+THis code takes the data from a pastebin of 1.4b passwords, and parses them into a PostgreSQL databse for further analyisis.
+
 PostgreSQL must be install before the psycopg2 libary for it to work.
 
 To use, move the 'data' directory from magnet link below to the same directory as the script.
